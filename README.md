@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square)
+[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/diascarolina)
 
 ![](https://i.imgur.com/MXcfOFl.png)
 
