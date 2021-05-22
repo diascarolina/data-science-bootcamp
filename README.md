@@ -18,6 +18,8 @@ Um curso prático de 12 semanas com projetos e conteúdo relevantes à área de 
 
 ### Como este repositório foi organizado?
 
+Para os arquivos de acompanhamento das aulas e desafios foram utilizados majoritariamente o [Jupyter Notebooks](https://jupyter.org/) e o [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html).
+
 Para cada módulo existe uma pasta que contém seus arquivos, ou seja, para o **Módulo 01** temos a pasta ```modulo1```.
 
 Dentro de cada pasta pode ser encontrado um ou mais arquivos no formato .ipynb. Esses são os notebooks com os códigos de acompanhamento de cada aula e a resolução dos desafios propostos.
