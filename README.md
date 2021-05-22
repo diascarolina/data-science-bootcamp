@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square)
+
 ![](https://i.imgur.com/MXcfOFl.png)
 
 Olá! 👋
