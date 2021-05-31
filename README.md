@@ -60,19 +60,20 @@ Aula | Título
 
 Aula | Título
 :---:|:---
-**01** | 
-**02** | 
-**03** | 
-**04** | 
-**05** |
+**01** | Fontes Externas, Limpeza e Manipulação de Dados
+**02** | Proporcionalidades e Seaborn
+**03** | Ticks, Escalas e Formatação de Imagens
+**04** | Trabalhando com DateTime e Melt
+**05** | Manipulando Datas e Gerando Novas Análises
+**06** | Agrupando Dados e Analisando por Categoria
 
-**Projeto Módulo 02:** ---
+**Projeto Módulo 02:** to-do
 
-**Data de Envio:** ---
+**Data de Envio:** até 13/06/2021
 
 <hr>
 
-Dúvidas e sugestões são sempre bem-vindas!
+Dúvidas, dicas e sugestões são sempre bem-vindas!
 
 [<img src="https://img.shields.io/badge/carodias-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carodias/)
 [<img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:carolinadiasw@gmail.com)
