@@ -44,6 +44,8 @@ Aula | Título
 **04** | Análise de Gráficos e Criação de Hipóteses
 **05** | Manipulação e Interpretação de Gráficos
 
+**Notebook:** [Desafios Módulo 01](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo1/aulas_desafios_modulo1.ipynb)
+
 **Projeto Módulo 01:** [Sistema Único de Saúde (SUS) - Uma Análise de Dados de Internações](https://github.com/diascarolina/healthcare-analysis)
 
 **Data de Envio:** 30/05/2021
@@ -66,6 +68,8 @@ Aula | Título
 **04** | Trabalhando com DateTime e Melt
 **05** | Manipulando Datas e Gerando Novas Análises
 **06** | Agrupando Dados e Analisando por Categoria
+
+**Notebook:** [Desafios Módulo 02](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo2/aulas_desafios_modulo2.ipynb)
 
 **Projeto Módulo 02:** to-do
 
