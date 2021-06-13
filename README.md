@@ -58,7 +58,7 @@ Aula | Título
 
 **Data de Início:** 31/05/2021
 
-**Status:** Em progresso 🟡
+**Status:** Completo 🟢
 
 Aula | Título
 :---:|:---
@@ -71,9 +71,31 @@ Aula | Título
 
 **Notebook:** [Desafios Módulo 02](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo2/aulas_desafios_modulo2.ipynb)
 
+**Projeto Módulo 02:** [Vacinação no Brasil: O que Aprendemos com o Surto de Sarampo em 2014](https://github.com/diascarolina/vacinacao-geral-no-brasil)
+
+**Data de Envio:** 13/06/2021
+
+## Módulo 03: Análise de Séries Temporais
+
+> Este módulo tem foco na análise e previsões de séries temporais. Vamos aplicar todo conhecimento adquirido para trabalhar com esse tipo de dados cheio de particularidades, além de estudar ferramentas específicas, como Prophet, desenvolvida pelo Facebook.
+
+**Data de Início:** 14/06/2021
+
+**Status:** Em progresso 🟡
+
+Aula | Título
+:---:|:---
+**01** | 
+**02** | 
+**03** | 
+**04** | 
+**05** | 
+
+**Notebook:** [Desafios Módulo 03](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo2.ipynb)
+
 **Projeto Módulo 02:** to-do
 
-**Data de Envio:** até 13/06/2021
+**Data de Envio:** até 26/06/2021
 
 <hr>
 
