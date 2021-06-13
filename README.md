@@ -1,6 +1,6 @@
 # Bootcamp Data Science Aplicada
 
-[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/diascarolina)
+[<img src="https://img.shields.io/badge/author-Carolina%20Dias-FB3799?style=flat-square"/>](https://github.com/diascarolina) [<img src="https://img.shields.io/badge/carodias-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carodias/)
 
 ![](https://raw.githubusercontent.com/diascarolina/data-science-bootcamp/main/other/banner_bootcamp.png)
 
@@ -91,9 +91,9 @@ Aula | Título
 **04** | 
 **05** | 
 
-**Notebook:** [Desafios Módulo 03](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo2.ipynb)
+**Notebook:** [Desafios Módulo 03](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo3.ipynb)
 
-**Projeto Módulo 02:** to-do
+**Projeto Módulo 03:** to-do
 
 **Data de Envio:** até 26/06/2021
 
