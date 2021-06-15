@@ -75,7 +75,7 @@ Aula | Título
 
 **Data de Envio:** 13/06/2021
 
-## Módulo 03: Análise de Séries Temporais
+## Módulo 03: Análise e Previsão de Séries Temporais
 
 > Este módulo tem foco na análise e previsões de séries temporais. Vamos aplicar todo conhecimento adquirido para trabalhar com esse tipo de dados cheio de particularidades, além de estudar ferramentas específicas, como Prophet, desenvolvida pelo Facebook.
 
@@ -85,11 +85,11 @@ Aula | Título
 
 Aula | Título
 :---:|:---
-**01** | 
-**02** | 
-**03** | 
-**04** | 
-**05** | 
+**01** | Entendendo a Série Temporal
+**02** | Primeiras Previsões
+**03** | Mudança de Tendência
+**04** | Feriados e Sazonalidade
+**05** | Outliers e Validação
 
 **Notebook:** [Desafios Módulo 03](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo3.ipynb)
 
