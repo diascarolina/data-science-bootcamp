@@ -95,7 +95,7 @@ Aula | Título
 
 **Projeto Módulo 03:** to-do
 
-**Data de Envio:** até 26/06/2021
+**Data de Envio:** até 04/07/2021
 
 <hr>
 
