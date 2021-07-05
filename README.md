@@ -81,7 +81,7 @@ Aula | Título
 
 **Data de Início:** 14/06/2021
 
-**Status:** Em progresso 🟡
+**Status:** Completo 🟢
 
 Aula | Título
 :---:|:---
@@ -93,9 +93,32 @@ Aula | Título
 
 **Notebook:** [Desafios Módulo 03](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo3.ipynb)
 
-**Projeto Módulo 03:** to-do
+**Projeto Módulo 03:** [Séries Temporais - Covid-19](https://github.com/diascarolina/projeto-series-temporais-covid)
 
-**Data de Envio:** até 04/07/2021
+**Data de Envio:** 04/07/2021
+
+## Módulo 04: Tratamento, Análise e Machine Learning Aplicado
+
+> Estamos chegando na reta final, e este módulo dará início ao desenvolvimento de um projeto prático que passará por todo o workflow em Data Science, do entendimento do problema, tratamento e análise dos dados até a proposta de solução utilizando Machine Learning.
+> Vamos trabalhar com dados da COVID-19 do hospital Sírio Libanês, focando este módulo no tratamento e análise de dados para entender profundamente o problema que estamos lidando e propor possíveis soluções.
+
+**Data de Início:** 05/07/2021
+
+**Status:** Em progresso 🟡
+
+Aula | Título
+:---:|:---
+**01** | Machine Learning e Saúde
+**02** | Desenvolvimento no Kaggle
+**03** | Modelos de Machine Learning
+**04** | Métricas e Avaliações
+**05** | Compreendendo o Problema Real
+
+**Notebook:** [Desafios Módulo 04](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo4.ipynb)
+
+**Projeto Módulo 04:** to-do
+
+**Data de Envio:** ?
 
 <hr>
 
