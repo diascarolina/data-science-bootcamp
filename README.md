@@ -104,7 +104,7 @@ Aula | Título
 
 **Data de Início:** 05/07/2021
 
-**Status:** Em progresso 🟡
+**Status:** Completo 🟢
 
 Aula | Título
 :---:|:---
@@ -114,11 +114,35 @@ Aula | Título
 **04** | Métricas e Avaliações
 **05** | Compreendendo o Problema Real
 
-**Notebook:** [Desafios Módulo 04](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo3/aulas_desafios_modulo4.ipynb)
+**Notebook:** [Desafios Módulo 04](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo4/aulas_desafios_modulo4.ipynb)
 
-**Projeto Módulo 04:** to-do
+**Projeto Módulo 04:** ---
 
-**Data de Envio:** ?
+**Data de Envio:** ---
+
+## Módulo 05: Modelos, Métricas e Validações em Machine Learning
+
+> No último módulo aplicamos todo nosso conhecimento para analisar dados da COVID-19, entender alguns dos desafios dos hospitais em época de pandemia e propor soluções a partir das análises de dados.
+> Nossa proposta de solução foi utilizar modelos de Machine Learning, mas para tornar isso possível precisamos aprofundar nossos conhecimentos nesta área, testando modelos mais avançados, utilizando métricas adequadas ao problema e validando de forma correta. Neste módulo vamos trabalhar todas estas frentes para tornar nossa solução uma proposta viável.
+
+**Data de Início:** 19/07/2021
+
+**Status:** Em progresso 🟡
+
+Aula | Título
+:---:|:---
+**01** | Wokflow de Machine Learning
+**02** | Métricas de Avaliaçào
+**03** | Aleatoriedade de Modelos
+**04** | Validação Cruzada
+**05** | Desafios em Machine Learning
+**06** | Finalizando a Validação
+
+**Notebook:** [Desafios Módulo 05](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo5/aulas_desafios_modulo5.ipynb)
+
+**Projeto Módulo 05:** To-do
+
+**Data de Envio:** ???
 
 <hr>
 
