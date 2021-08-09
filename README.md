@@ -127,7 +127,7 @@ Aula | Título
 
 **Data de Início:** 19/07/2021
 
-**Status:** Em progresso 🟡
+**Status:** Completo 🟢
 
 Aula | Título
 :---:|:---
@@ -140,7 +140,29 @@ Aula | Título
 
 **Notebook:** [Desafios Módulo 05](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo5/aulas_desafios_modulo5.ipynb)
 
-**Projeto Módulo 05:** To-do
+**Projeto Módulo 05:** [ICU Prediction](https://github.com/diascarolina/project-icu-prediction)
+
+**Data de Envio:** 09/08
+
+## Módulo 06: 
+
+> 
+
+**Data de Início:** XX/08/2021
+
+**Status:** Em progresso 🟡
+
+Aula | Título
+:---:|:---
+**01** | x
+**02** | x
+**03** | x
+**04** | x
+**05** | 
+
+**Notebook:** [Desafios Módulo 06](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo6/aulas_desafios_modulo6.ipynb)
+
+**Projeto Módulo 06:** to-do
 
 **Data de Envio:** ???
 
