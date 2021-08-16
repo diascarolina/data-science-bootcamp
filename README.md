@@ -140,31 +140,31 @@ Aula | Título
 
 **Notebook:** [Desafios Módulo 05](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo5/aulas_desafios_modulo5.ipynb)
 
-**Projeto Módulo 05:** [ICU Prediction](https://github.com/diascarolina/project-icu-prediction)
+**Projeto Módulo 05:** [Covid-19 ICU Prediction](https://github.com/diascarolina/project-icu-prediction)
 
-**Data de Envio:** 09/08
+**Data de Envio:** 08/08/2021
 
 ## Módulo 06: 
 
-> 
+> Agora chegou o momento de consolidar seu conhecimento em uma nova área. Vamos sair do assunto saúde e desenvolver um projeto completo de Data Science aplicado a finanças. Será mais um projeto incrível para complementar seu portfólio e principalmente para te ensinar assuntos específicos desta área tão relevante.
 
-**Data de Início:** XX/08/2021
+**Data de Início:** 11/08/2021
 
 **Status:** Em progresso 🟡
 
 Aula | Título
 :---:|:---
-**01** | x
-**02** | x
-**03** | x
-**04** | x
-**05** | 
+**01** | Contextualização do Mercado Financeiro
+**02** | Analisando a Base de Cadastro de Clientes
+**03** | Definindo a Classificação de Clientes
+**04** | Machine Learning
+**05** | Criando a Aplicação (em Streamlit)
 
 **Notebook:** [Desafios Módulo 06](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo6/aulas_desafios_modulo6.ipynb)
 
 **Projeto Módulo 06:** to-do
 
-**Data de Envio:** ???
+**Data de Envio:** ---
 
 <hr>
 
