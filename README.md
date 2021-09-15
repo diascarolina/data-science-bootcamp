@@ -150,7 +150,7 @@ Aula | Título
 
 **Data de Início:** 11/08/2021
 
-**Status:** Em progresso 🟡
+**Status:** Completo 🟢
 
 Aula | Título
 :---:|:---
@@ -162,9 +162,8 @@ Aula | Título
 
 **Notebook:** [Desafios Módulo 06](https://github.com/diascarolina/data-science-bootcamp/blob/main/modulo6/aulas_desafios_modulo6.ipynb)
 
-**Projeto Módulo 06:** to-do
+**Projeto Módulo 06:** [Credit Scoring in Streamlit](https://github.com/diascarolina/credit-scoring-streamlit)
 
-**Data de Envio:** ---
 
 <hr>
 
